@@ -1,2 +1,2 @@
-# just-angy-bird-2.0
-AdfAfr
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
